@@ -1,0 +1,28 @@
+body {
+    background-color: #171421;
+    color: #D0CFCC;
+}
+
+pre {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+}
+
+u {
+    text-decoration-style: single;
+}
+
+a {
+    color: inherit;
+    text-decoration-line: inherit;
+}
+
+a:hover {
+    text-decoration-line: underline;
+}
+
+/* width is assuming 60% width 16px monospace font */
+.center {
+    margin: auto;
+    width: 768px;
+}
